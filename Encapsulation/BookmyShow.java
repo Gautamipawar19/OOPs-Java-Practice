@@ -1,4 +1,4 @@
-class Pvrmovies
+class Pvrmovie
 {
 	private static Pvrmovies mticket;
 	private static boolean ticketstatus = false;
